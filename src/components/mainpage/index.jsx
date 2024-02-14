@@ -26,7 +26,7 @@ function MainPage() {
     getFlower(page - 1);
   }
   function detailFlowers(id) {
-    navigate("/flowers/" + id);
+    navigate("/flowers/" + id); 
   }
   return (
     <div className="container">
@@ -39,14 +39,18 @@ function MainPage() {
         {flowers.map((el) => {
           return (
             <div>
-              <img src={el.flowerImg} alt="" />
-              <h2>{el.title}</h2>
-              <p>{el.price}$</p>
+              <img className="flowerImg" src={el.flowerImg} alt="" />
+              <h2 style={{marginTop: '20px'}}>{el.title}</h2>
+              <p style={{marginTop: '20px'}} >{el.price}$</p>
               <button
                 onClick={() => detailFlowers(el.id)}
                 className="detailsBtn"
               >
-                Детали
+                <span className="shadow"></span>
+                <span className="edge"></span>
+                <span className="front">
+                  Детали
+                </span>
               </button>
             </div>
           );
