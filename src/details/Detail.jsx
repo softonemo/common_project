@@ -5,7 +5,7 @@ function Detail() {
   const { id } = useParams();
   const [data, setData] = useState({});
   async function getDetail() {
-    const response = await fetch('https://65c22d98f7e6ea59682accb7.mockapi.io/api/01/flowers' + id);
+    const response = await fetch('https://65c22d98f7e6ea59682accb7.mockapi.io/api/01/flowers/' + id);
     const data = await response.json();
     setData(data);
   }
