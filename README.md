@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+![alt text](https://scontent.ffru7-1.fna.fbcdn.net/v/t39.30808-6/301838693_463677429107277_287843763817562970_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=783fdb&_nc_ohc=FBkbI_OW450AX9NMB7S&_nc_ht=scontent.ffru7-1.fna&oh=00_AfASlnaNsznOKM84J-21US6RMe19mVMsWuFbqNmumWYjCQ&oe=65D370DB)
+# Ogogo Academy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+👨‍💻
+**Курсы программирования в Бишкеке**
 
-## Available Scripts
 
-In the project directory, you can run:
+![alt text](https://st-1.akipress.org/cdn-st-0/qd7/S/md-689.jpg)
 
-### `npm start`
+>Преподователи
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4z_cfgQtGvgXdePAwfMko0owuYsPqBB74EgFI94NT94L-zEukUgAwa9M8bEZorlsS4o&usqp=CAU)
+![alt text](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaMwaT2BO1bqYMhgo2cNkLCkVJJzVAiFoqXhJ-7_3toKhqQhke)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFNSkSxFqNEQhdSL6lndTIYhNIQaPo7SOsuNTaqUDjvFwnzYEl33eT7yjViNymOW9vYE&usqp=CAU)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🧠
+*Думай.*
+*Учись..*
+*Создавай.*
 
-### `npm test`
+**Академия "OGOGO" -Окунись в мир будущего вместе с нами!**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Ссылка на веб-страницу**
 
-### `npm run build`
+[Ogogo Academy](https://www.ogogoacademy.kg/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Образовательный центр в Бишкеке
+Адрес: 115/1 ул.Ибраимова, Бишкек 720021
+Часы работы: 
+Открыто ⋅ Закроется в 19:00
+Телефон: 0502 892 222**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Група
+> Frontend
+⚛️
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](https://codedamn.com/assets/images/learnpaths/og/frontend.png)
 
-### `npm run eject`
+**Наша команда:**
+>Нурадил
+>
+>Нариман
+>
+>Нурали
+>
+>Кызжибек
+>
+>Мырза
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Greenland Цветочная лавка 🥀 💮
+**Цветочная лавка. Оптовые и мелкооптовые продажи цветов. Доставка цветов по городу Бишкек**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Цветы принято дарить во все памятные дни жизни – в день рождения, в день свадьбы**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![alt text](https://data.kaktus.media/image/big/2023-03-01_12-57-21_269248.jpg)
+![alt text](https://www.eliteflower.ru/upload/resize_cache/iblock/851/500_500_2/8514863ad7093e4ed16ede30793dee45.jpg)
+![alt text](https://www.eliteflower.ru/upload/resize_cache/iblock/c81/500_500_2/c81a0ee709d75d0433835c8288f12d14.jpg)
+![alt text](https://data.kaktus.media/image/big/2023-03-01_12-57-19_383318.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Официальный сайт**
 
-## Learn More
+[Greenland Мир цветов](https://greenland.kg/ru/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Звоните нам по номеру телефона +996 770 446 090 или воспользуйтесь одним из способов заказа через сайт. Работаем круглосуточно и без выходных.
+‎Популярное · ‎Подарки · ‎(Р) Рубли · ‎День влюбленных**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Ссылка на нашу работу ](https://65c22d98f7e6ea59682accb7.mockapi.io/api/01/flowers)
