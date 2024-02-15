@@ -7,6 +7,8 @@
 
 ![alt text](https://st-1.akipress.org/cdn-st-0/qd7/S/md-689.jpg)
 
+>Преподователи
+
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4z_cfgQtGvgXdePAwfMko0owuYsPqBB74EgFI94NT94L-zEukUgAwa9M8bEZorlsS4o&usqp=CAU)
 ![alt text](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaMwaT2BO1bqYMhgo2cNkLCkVJJzVAiFoqXhJ-7_3toKhqQhke)
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFNSkSxFqNEQhdSL6lndTIYhNIQaPo7SOsuNTaqUDjvFwnzYEl33eT7yjViNymOW9vYE&usqp=CAU)
@@ -45,19 +47,25 @@
 >
 >Мырза
 
-**Наш проект**
-
 # Greenland Цветочная лавка 🥀 💮
 **Цветочная лавка. Оптовые и мелкооптовые продажи цветов. Доставка цветов по городу Бишкек**
+
+**Цветы принято дарить во все памятные дни жизни – в день рождения, в день свадьбы**
 
 ![alt text](https://data.kaktus.media/image/big/2023-03-01_12-57-21_269248.jpg)
 ![alt text](https://www.eliteflower.ru/upload/resize_cache/iblock/851/500_500_2/8514863ad7093e4ed16ede30793dee45.jpg)
 ![alt text](https://www.eliteflower.ru/upload/resize_cache/iblock/c81/500_500_2/c81a0ee709d75d0433835c8288f12d14.jpg)
 ![alt text](https://data.kaktus.media/image/big/2023-03-01_12-57-19_383318.jpg)
 
+**Официальный сайт**
 
+[Greenland Мир цветов](https://greenland.kg/ru/)
 
-*Я прекрасен в бою, как цветок на рассвете.*
+**Звоните нам по номеру телефона +996 770 446 090 или воспользуйтесь одним из способов заказа через сайт. Работаем круглосуточно и без выходных.
+‎Популярное · ‎Подарки · ‎(Р) Рубли · ‎День влюбленных**
+
+# 
+
 
 
 
