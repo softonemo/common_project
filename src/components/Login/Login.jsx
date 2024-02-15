@@ -24,7 +24,8 @@ function Login() {
       <input type="password" placeholder='Введите пароль' value={passwordValue} onChange={(e) => setPasswordValue(e.target.value)} />
       <br />
       <button  onClick={getInputValue}>Отправить</button>
-      {error && <p style={{ color: 'red' }}>{error}</p>}
+      <br />
+      {error}
     </div>
   );
   };
