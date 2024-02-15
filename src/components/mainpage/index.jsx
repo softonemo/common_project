@@ -1,14 +1,17 @@
-import React, { useEffect, useState } from "react";
-import "./index.css";
-import { useNavigate } from "react-router-dom";
+import React, { useEffect, useState } from 'react';
+import './index.css';
+import { useNavigate } from 'react-router-dom';
+import { lazy, Suspense } from 'react';
+import Loader from '../../3d/voxelLoader';
 
+const LazyVoxelDog = lazy(() => import('../../3d/Flower'));
 function MainPage() {
   const navigate = useNavigate();
   const [page, setPage] = useState(1);
   const [flowers, setFlowers] = useState([]);
   async function getFlower() {
     const res = await fetch(
-      `https://65c22d98f7e6ea59682accb7.mockapi.io/api/01/flowers?limit=6&page=${page}`
+      `https://65c22d98f7e6ea59682accb7.mockapi.io/api/01/flowers?limit=6&page=${page}`,
     );
     const response = await res.json();
     console.log(response);
@@ -26,10 +29,13 @@ function MainPage() {
     getFlower(page - 1);
   }
   function detailFlowers(id) {
-    navigate("/flowers/" + id); 
+    navigate('/flowers/' + id);
   }
   return (
     <div className="container">
+      <Suspense fallback={<Loader />}>
+        <LazyVoxelDog />
+      </Suspense>
       <div className="pageLeft">
         <button className="buttonPage" onClick={pageMinus}>
           left
@@ -40,17 +46,12 @@ function MainPage() {
           return (
             <div>
               <img className="flowerImg" src={el.flowerImg} alt="" />
-              <h2 style={{marginTop: '20px'}}>{el.title}</h2>
-              <p style={{marginTop: '20px'}} >{el.price}$</p>
-              <button
-                onClick={() => detailFlowers(el.id)}
-                className="detailsBtn"
-              >
+              <h2 style={{ marginTop: '20px' }}>{el.title}</h2>
+              <p style={{ marginTop: '20px' }}>{el.price}$</p>
+              <button onClick={() => detailFlowers(el.id)} className="detailsBtn">
                 <span className="shadow"></span>
                 <span className="edge"></span>
-                <span className="front">
-                  Детали
-                </span>
+                <span className="front">Детали</span>
               </button>
             </div>
           );
