@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+.detailsContainer{
+    display: flex;
+    margin-left: 50px;
+    gap: 50px;
+    /* font-size: 22px; */
+    font-family: 'Montserrat';
+    
+}
+span{
+    
+    color:brown;
+}
+.aboutDetail{
+    font-size: 28px;
+}
+
+.addPostcard{
+    font-size: 18px;
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+.text{
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+}
+.detailsContainer button{
+    background-color: black;
+    color: aliceblue;
+    margin-top: 20px;
+    border-radius: 4px;
+    padding: 10px;
+    border: 0;
+}
+.detailsContainer button:hover{
+    color: black;
+    background-color:rgb(173, 175, 176);
+}
