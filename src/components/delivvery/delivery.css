@@ -1,0 +1,93 @@
+.main{
+  width: 80%;
+}
+.h1 {
+  box-sizing:border-box;
+  display: none
+  font-family sans-serif
+  font-size 10px
+  height auto
+  text-size-adjust 100%
+  user-select none
+  width auto
+  -webkit-font-smoothing antialiased
+  -webkit-tap-highlight-color rgba(0, 0, 0, 0);
+  margin-left: 130px;
+  padding: 10px;
+}
+.p{
+  color: #000;
+  font-family: Sintony, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  margin:25px;
+  margin-left: 130px;
+  box-sizing: border-box;
+}
+.p1{
+  box-sizing: border-box;
+  font-family: Sintony, sans-serif;
+  display: block;
+  color: rgb(0, 0, 0,);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  text-size-adjust: 100%;
+  margin-left: 130px;
+  align-content: flex-end;
+  flex-direction: column-reverse;
+  margin: 25px;
+  margin-left: 130px;
+  
+}
+
+.h2{
+  display: flex;
+  margin: 12px;
+  margin-left: 130px;
+  align-content: end;
+  flex-direction: column-reverse;
+  font-family: Sintony, sans-serif;
+  font-size: 21.996px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: 21.996px;
+  margin-block-end: 10px
+margin-block-start 20px
+margin-bottom 10px
+margin-top 20px
+padding-bottom 21.996px
+text-decoration-color rgb(0, 0, 0)
+text-decoration-line none
+text-decoration-style solid
+text-decoration-thickness auto
+text-size-adjust 100%
+text-transform uppercase
+user-select none
+width 654.6px
+-webkit-font-smoothing antialiased
+-webkit-tap-highlight-color rgba(0, 0, 0, 0)
+}
+
+ul{
+  box-sizing: border-box;
+  color: rgb(0, 0, 0);
+  font-family: Sintony, sans-serif;
+  font-optical-sizing: auto;
+  font-size: 12px;
+  font-stretch: 100%;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14.4px;
+  list-style-position: outside;
+  margin-block-end: 10px;
+  margin-bottom: 10px;
+  padding-inline-start: 20px;
+  padding-left: 160px;
+  text-size-adjust: 100%;
+  user-select: none;
+}
+.li{
+  margin: 12px;
+}

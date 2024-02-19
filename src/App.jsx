@@ -5,6 +5,8 @@ import Login from './components/Login/Login';
 import Detail from './details/Detail';
 import DetailPage from './pages/DetailPage';
 import MainPage from './components/mainpage';
+import Delivery from './components/delivvery/Delivery';
+import Specials from './components/Specials/Special';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
         <Route path='/Login' element={<Login/>} />
         <Route path="/flowers/:id" element={<DetailPage />} />
         <Route path='/' element={<MainPage/>} />
+        <Route path='/delivery' element={<Delivery/>} />
+        <Route path='/specials' element={<Specials/>} />
       </Routes>
     </>
   );
