@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom'
 function Header() {
   return (
     <div className='headerContainer'>
-        <div className="logo">GREENLAND</div>
+        <div className="logo"><Link to={'/'}>FLOWERS</Link></div>
         <nav>
           <Link to='/delivery'>Доставка</Link>
           <Link to='/specials'>Акции</Link>

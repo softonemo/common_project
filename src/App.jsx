@@ -6,15 +6,21 @@ import Detail from './details/Detail';
 import DetailPage from './pages/DetailPage';
 import MainPage from './components/mainpage';
 import Footer from './components/footer/Footer';
+import Delivery from './components/delivvery/Delivery';
+import Specials from './components/Specials/Special';
+
 
 function App() {
   return (
     <>
       <Header/>
       <Routes>
+        
         <Route path='/Login' element={<Login/>} />
-        <Route path="/flowers/:id" element={<DetailPage />} />
+        <Route path="/flowers/:id" element={<Detail/>} />
         <Route path='/' element={<MainPage/>} />
+        <Route path='/delivery' element={<Delivery/>} />
+        <Route path='/specials' element={<Specials/>} />
       </Routes>
       <Footer/>
     </>
