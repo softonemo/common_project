@@ -5,6 +5,7 @@ import Login from './components/Login/Login';
 import Detail from './details/Detail';
 import DetailPage from './pages/DetailPage';
 import MainPage from './components/mainpage';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/flowers/:id" element={<DetailPage />} />
         <Route path='/' element={<MainPage/>} />
       </Routes>
+      <Footer/>
     </>
   );
 }
