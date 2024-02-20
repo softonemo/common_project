@@ -5,8 +5,10 @@ import Login from './components/Login/Login';
 import Detail from './details/Detail';
 import DetailPage from './pages/DetailPage';
 import MainPage from './components/mainpage';
+import Footer from './components/footer/Footer';
 import Delivery from './components/delivvery/Delivery';
 import Specials from './components/Specials/Special';
+
 
 function App() {
   return (
@@ -20,6 +22,7 @@ function App() {
         <Route path='/delivery' element={<Delivery/>} />
         <Route path='/specials' element={<Specials/>} />
       </Routes>
+      <Footer/>
     </>
   );
 }
