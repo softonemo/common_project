@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./index.css";
 import { useNavigate } from "react-router-dom";
+import Banner from "../banner";
 
 function MainPage() {
   const navigate = useNavigate();
@@ -29,7 +30,10 @@ function MainPage() {
     navigate("/flowers/" + id); 
   }
   return (
+    <>
+    <Banner/>
     <div className="container">
+      
       <div className="pageLeft">
         <button className="buttonPage" onClick={pageMinus}>
           left
@@ -62,6 +66,8 @@ function MainPage() {
         </button>
       </div>
     </div>
+    </>
+    
   );
 }
 
