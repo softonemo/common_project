@@ -12,6 +12,7 @@ function Header() {
           <Link to='/specials'>Акции</Link>
           <Link to='/contacts'>Контакты</Link>
           <Link to='/about'>О нас</Link>
+          <Link to='/search'>Поиск</Link>
         </nav>
         <Link  to="/Login" className='login'>login</Link>
     </div>

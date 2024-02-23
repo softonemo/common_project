@@ -10,7 +10,7 @@ import Delivery from './components/delivvery/Delivery';
 import Specials from './components/Specials/Special';
 import About from './components/aboutus/About';
 import Contact from './components/contact/Contact';
-
+import Search from './components/search/Search';
 
 function App() {
   return (
@@ -24,6 +24,7 @@ function App() {
         <Route path="/specials" element={<Specials />} />
         <Route path="/About" element={<About />} />
         <Route path="/Contacts" element={<Contact />} />
+        <Route path="/Search"element={<Search />} />
       </Routes>
       <Footer/>
     </>
