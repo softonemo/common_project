@@ -11,7 +11,7 @@ import Specials from './components/Specials/Special';
 import About from './components/aboutus/About';
 import Contact from './components/contact/Contact';
 import Search from './components/search/Search';
-
+import Todos from './components/todos/Todos';
 function App() {
   return (
     <>
@@ -24,7 +24,8 @@ function App() {
         <Route path="/specials" element={<Specials />} />
         <Route path="/About" element={<About />} />
         <Route path="/Contacts" element={<Contact />} />
-        <Route path="/Search"element={<Search />} />
+        <Route path="/Search" element={<Search />} />
+        <Route path="/Todos" element={<Todos />} />
       </Routes>
       <Footer/>
     </>
